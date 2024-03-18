@@ -13,6 +13,7 @@
 * [Swiper](https://swiperjs.com/)
 * [EmailJS](https://www.emailjs.com/)
 * [Logo](https://worldvectorlogo.com/)
+* [Stock-images](https://www.freepik.com/)
 ##
 👨‍💻 Projet réalisé avec la vidéo tutoriel de [Bedimcode](https://youtu.be/F2_6rFk-UC8?si=0moDvP_pBXhok4Sa) sur Youtube
 
