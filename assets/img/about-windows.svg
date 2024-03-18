@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150" width="150" height="150">
+	<title>about-codepen</title>
+	<defs>
+		<image width="2501" height="2500" id="img1" href="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQ5OS42IDI1MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjI1MDAiIGhlaWdodD0iMjUwMCI+PGcgZmlsbD0iIzAwYWRlZiI+PHBhdGggZD0iTTExODcuOSAxMTg3LjlIMFYwaDExODcuOXpNMjQ5OS42IDExODcuOWgtMTE4OFYwaDExODcuOXYxMTg3Ljl6TTExODcuOSAyNTAwSDBWMTMxMi4xaDExODcuOXpNMjQ5OS42IDI1MDBoLTExODhWMTMxMi4xaDExODcuOVYyNTAweiIvPjwvZz48L3N2Zz4="/>
+	</defs>
+	<style>
+	</style>
+	<use id="microsoft-windows-11" href="#img1" transform="matrix(.06,0,0,.06,0,0)"/>
+</svg>
