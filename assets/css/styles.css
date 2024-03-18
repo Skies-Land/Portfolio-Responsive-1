@@ -266,6 +266,7 @@ body.dark-theme {
   .nav__menu {
     position: fixed;
     top: -100%;
+    left: 0;	  
     background-color: var(--body-color);
     width: 100%;
     box-shadow: 0 12px 24px var(--shadow-color);
